@@ -9,7 +9,8 @@
       "english_25k",
       "english_450k",
       "english_commonly_misspelled",
-      "english_contractions"
+      "english_contractions",
+      "english_doubleletter"
     ]
   },
   {
@@ -17,12 +18,16 @@
     "languages": ["spanish", "spanish_1k", "spanish_10k"]
   },
   {
+    "name": "lorem_ipsum",
+    "languages": ["lorem_ipsum"]
+  },
+  {
     "name": "nepali",
     "languages": ["nepali", "nepali_1k"]
   },
   {
     "name": "french",
-    "languages": ["french", "french_1k", "french_2k", "french_10k"]
+    "languages": ["french", "french_1k", "french_2k", "french_10k", "french_600k"]
   },
   {
     "name": "german",
@@ -424,5 +429,10 @@
   {
     "name": "wordle",
     "languages": ["wordle", "wordle_1k"]
+  },
+  {
+    "name": "kyrgyz",
+    "languages": ["kyrgyz"]
   }
+  
 ]
